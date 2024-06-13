@@ -2,7 +2,6 @@ import React from 'react';
 import { Heading, Card, CardHeader, CardBody, List, ListItem, ListIcon, Button, Stack } from '@chakra-ui/react';
 import { FaSwimmer, FaWifi, FaParking, FaUtensils, FaHome, FaUmbrellaBeach } from "react-icons/fa"; // Import icons from React Icons
 import { ArrowForwardIcon } from '@chakra-ui/icons'
-import { Link } from 'react-router-dom'; // Import Link component from react-router-dom
 
 const HomePage = () => {
   const bookingUrl = 'https://www.booking.com/hotel/za/elegant-3-bedroom-at-bellamare.en-gb.html?aid=1258470&label=Share-HxqOpx%401680507340';
